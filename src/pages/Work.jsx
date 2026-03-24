@@ -110,7 +110,7 @@ export default function Work() {
                         <div className="exp-role-info">
                             <div className="section-tag" style={{ marginBottom: '0.4rem' }}>Current Position</div>
                             <h2 className="exp-role-name">FinXtract Sdn Bhd</h2>
-                            <p className="exp-role-title">AI Engineer · September 2025 – Present</p>
+                            <p className="exp-role-title">AI Engineer · Sep 2025 – Present</p>
                             <div className="exp-role-desc">
                                 <p style={{ marginBottom: '1rem' }}>
                                     A company under <strong>FinHero Sdn Bhd</strong>. I specialize in building and optimizing <strong>AI-powered document extraction pipelines</strong> within the <strong>FinXtract Ecosystem</strong>. My work focuses on transforming unstructured data from PDFs and images—such as bank statements, audited financial reports, receipts, and identification documents—into <strong>structured, system-ready JSON</strong> for downstream processing and analytics.
