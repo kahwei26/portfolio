@@ -113,10 +113,16 @@ export default function Home() {
                                 Passionate about solving <span className="text-amber">real-world problems with AI.</span>
                             </h2>
                             <p style={{ marginBottom: '1.25rem' }}>
-                                I graduated with a Bachelor of Computer Science (Bioinformatics) from Universiti Teknologi Malaysia, building a strong foundation in data-driven problem solving. Through my internship, I gained hands-on experience in Vision AI, developing practical computer vision applications.
+                                I graduated with a Bachelor of Computer Science (Bioinformatics) from Universiti Teknologi Malaysia, where I developed a strong foundation in data-driven problem solving. During my internship, I gained hands-on experience in Vision AI, turning computer vision concepts into practical applications.
                             </p>
                             <p style={{ marginBottom: '1.25rem' }}>
-                                I am now an <strong>AI Engineer</strong> with 1.5+ years of experience developing production-ready systems. At <strong>FinXtract</strong>, I design and develop AI-powered document intelligence pipelines that extract key information from documents into structured JSON for downstream processing. My work spans training extraction models, developing extraction pipelines, building backend APIs, workflow automation, conversational AI, and lightweight frontend interfaces for seamless data interaction.
+                                Now, as an AI Engineer with 1.5+ years of experience, I’m focused on building production-ready, AI-powered systems. At <strong>FinXtract</strong>, I design and develop document intelligence pipelines that transform unstructured documents into structured, actionable data.
+                            </p>
+                            <p style={{ marginBottom: '1.25rem' }}>
+                                My work spans training extraction models, building scalable pipelines, developing backend APIs, automating workflows, and creating conversational AI and lightweight interfaces that make data easier to interact with.
+                            </p>
+                            <p style={{ marginBottom: '1.25rem' }}>
+                                I’m currently focused on building smarter, more scalable AI solutions at FinXtract—and there’s more exciting work ahead!
                             </p>
                         </div>
                     </div>
