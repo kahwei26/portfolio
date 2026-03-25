@@ -110,7 +110,7 @@ export default function Home() {
                         </div>
                         <div className="about__text-col">
                             <h2 className="section-title" style={{ marginBottom: '1.25rem' }}>
-                                Passionate about solving <span className="text-amber">real-world problems with AI.</span>
+                                Passionate about solving <span className="text-amber">real-world problems with AI</span>
                             </h2>
                             <p style={{ marginBottom: '1.25rem' }}>
                                 I graduated with a Bachelor of Computer Science (Bioinformatics) from Universiti Teknologi Malaysia, where I developed a strong foundation in data-driven problem solving. During my internship, I gained hands-on experience in Vision AI, turning computer vision concepts into practical applications.
@@ -122,7 +122,7 @@ export default function Home() {
                                 My work spans training extraction models, building scalable pipelines, developing backend APIs, automating workflows, and creating conversational AI and lightweight interfaces that make data easier to interact with.
                             </p>
                             <p style={{ marginBottom: '1.25rem' }}>
-                                I’m currently focused on building smarter, more scalable AI solutions at FinXtract—and there’s more exciting work ahead!
+                                I’m currently focused on building smarter, more scalable AI solutions at FinXtract, with more exciting work ahead!
                             </p>
                         </div>
                     </div>
